@@ -1,2 +1,2 @@
-# MATLAB-group-C
+# MATLAB-group-4
 Assignments and projects 
